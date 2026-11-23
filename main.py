@@ -3,4 +3,5 @@ print("NEW BRANCH")
 print("NEW TEST")
 print("PC MASTER RACE")
 print("HAHA GOTTEM")
-print("NOT FORK BOMB")
+for i in range(int(input())):
+    print(i)
